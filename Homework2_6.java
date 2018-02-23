@@ -36,7 +36,7 @@ public class Homework2_6 {
          System.out.println("\nMonth 3: " +month3);
          System.out.println("\nMonth 4: " +month4);
          System.out.println("\nMonth 5: " +month5);
-         System.out.println("\nMonth 6: " +month6);
+         System.out.println("\nMonth 6: " +month6); 
          
          
          }
